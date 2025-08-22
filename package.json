@@ -68,7 +68,7 @@
     "@easyops/git-exec-and-restage": "^1.0.4",
     "0x": "^5.1.2",
     "chai": "^4.3.6",
-    "cheerio": "0.22.0",
+    "cheerio": "1.1.2",
     "decache": "^4.6.1",
     "eslint": "^8.8.0",
     "eslint-config-hexo": "^5.0.0",
